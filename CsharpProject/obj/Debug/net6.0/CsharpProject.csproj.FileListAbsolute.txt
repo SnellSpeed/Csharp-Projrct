@@ -1,0 +1,15 @@
+E:\ProjectFile\CsharpProject\CsharpProject\bin\Debug\net6.0\CsharpProject.exe
+E:\ProjectFile\CsharpProject\CsharpProject\bin\Debug\net6.0\CsharpProject.deps.json
+E:\ProjectFile\CsharpProject\CsharpProject\bin\Debug\net6.0\CsharpProject.runtimeconfig.json
+E:\ProjectFile\CsharpProject\CsharpProject\bin\Debug\net6.0\CsharpProject.dll
+E:\ProjectFile\CsharpProject\CsharpProject\bin\Debug\net6.0\CsharpProject.pdb
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.csproj.AssemblyReference.cache
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.AssemblyInfoInputs.cache
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.AssemblyInfo.cs
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.csproj.CoreCompileInputs.cache
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.dll
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\refint\CsharpProject.dll
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.pdb
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\CsharpProject.genruntimeconfig.cache
+E:\ProjectFile\CsharpProject\CsharpProject\obj\Debug\net6.0\ref\CsharpProject.dll
